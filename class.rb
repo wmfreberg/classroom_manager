@@ -4,4 +4,6 @@ puts "It doesn't really do a whole lot."
 
 puts "Here's a second paragraph"
 puts "Really, it's useless"
-puts "I'm just trying to put something here"
+puts "I'm just trying to illustrate something"
+
+puts "Third paragraph"
