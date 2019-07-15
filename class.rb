@@ -7,3 +7,5 @@ puts "Really, it's useless"
 puts "I'm just trying to illustrate something"
 
 puts "Third paragraph"
+
+user_input = gets.chomp
