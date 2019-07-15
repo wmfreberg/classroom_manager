@@ -8,4 +8,5 @@ puts "I'm just trying to illustrate something"
 
 puts "Third paragraph"
 
+print "Enter your name: "
 user_input = gets.chomp
